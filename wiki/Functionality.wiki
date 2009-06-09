@@ -19,6 +19,6 @@
   * [https://addons.mozilla.org/en-US/firefox/addon/3607 Nagios Checker]
 
   * [http://www.lithiumcorp.com LithiumCorp]
-  * [http://www.webarchive.org WebArchive]
+  * [http://www.archive.org/web/web.php WebArchive]
   * [http://www.netcraft.com NetCraft]
   * [http://www.premitech.com PremiTech]

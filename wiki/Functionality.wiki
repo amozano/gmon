@@ -13,6 +13,7 @@
   * [http://cacti.net Cacti]:
    * [http://oss.oetiker.ch/smokeping SmokePing]
    * [http://cactiusers.org/downloads/plugins MacTrack] / [http://netdisco.org NetDisco]
+   * [http://www.network-weathermap.com WeatherMap]
   * [http://net-snmp.sourceforge.net SNMP]
   * [http://nmap.org NMap]
   * [http://www.open-audit.org OpenAudit]

@@ -9,6 +9,7 @@
    * [http://n2rrd.diglinks.com/cgi-bin/trac.cgi N2RRD]
    * [http://www.nagvis.org Nagvis] / [http://flux.org.uk/projects/rackmonkey RackMonkey]
    * [http://www.nareto.org NaReTo]
+   * [https://addons.mozilla.org/en-US/firefox/addon/3607 Nagios Checker]
   * [http://cacti.net Cacti]:
    * [http://oss.oetiker.ch/smokeping SmokePing]
    * [http://cactiusers.org/downloads/plugins MacTrack] / [http://netdisco.org NetDisco]
@@ -18,8 +19,6 @@
 
   * [http://www.open-audit.org OpenAudit]
   * [http://smstools.meinemullemaus.de SMSTools]
-
-  * [https://addons.mozilla.org/en-US/firefox/addon/3607 Nagios Checker]
 
   * [http://www.lithiumcorp.com LithiumCorp]
   * [http://www.archive.org/web/web.php WebArchive]

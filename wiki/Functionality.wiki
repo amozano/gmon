@@ -13,13 +13,10 @@
   * [http://cacti.net Cacti]:
    * [http://oss.oetiker.ch/smokeping SmokePing]
    * [http://cactiusers.org/downloads/plugins MacTrack] / [http://netdisco.org NetDisco]
-
   * [http://net-snmp.sourceforge.net SNMP]
   * [http://nmap.org NMap]
-
   * [http://www.open-audit.org OpenAudit]
   * [http://smstools.meinemullemaus.de SMSTools]
-
   * [http://www.lithiumcorp.com LithiumCorp]
   * [http://www.archive.org/web/web.php WebArchive]
   * [http://www.netcraft.com NetCraft]

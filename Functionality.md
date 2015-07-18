@@ -1,0 +1,22 @@
+# Functionality links #
+
+  * [Nagios](http://www.nagios.org)
+    * [NagiosPlugins](http://nagiosplugins.org)
+    * [NDOUtils](http://sourceforge.net/project/showfiles.php?group_id=26589&package_id=173832)
+    * [NRPE](http://sourceforge.net/projects/nrpe)
+    * [N2RRD](http://n2rrd.diglinks.com/cgi-bin/trac.cgi)
+    * [Nagvis](http://www.nagvis.org) / [RackMonkey](http://flux.org.uk/projects/rackmonkey)
+    * [NaReTo](http://www.nareto.org)
+    * [Nagios Checker](https://addons.mozilla.org/en-US/firefox/addon/3607)
+  * [Cacti](http://cacti.net):
+    * [SmokePing](http://oss.oetiker.ch/smokeping)
+    * [MacTrack](http://cactiusers.org/downloads/plugins) / [NetDisco](http://netdisco.org)
+    * [WeatherMap](http://www.network-weathermap.com)
+  * [SNMP](http://net-snmp.sourceforge.net)
+  * [NMap](http://nmap.org)
+  * [OpenAudit](http://www.open-audit.org)
+  * [SMSTools](http://smstools.meinemullemaus.de)
+  * [LithiumCorp](http://www.lithiumcorp.com)
+  * [WebArchive](http://www.archive.org/web/web.php)
+  * [NetCraft](http://www.netcraft.com)
+  * [PremiTech](http://www.premitech.com)
